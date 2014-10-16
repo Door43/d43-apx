@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apx:home|Door43 (apx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apx|d43-apx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apx/archive/master.zip|d43-apx.zip]]
+
+**Recent Changes**
+{{changes>ns = apx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apx|Ethnologue data]]
+
